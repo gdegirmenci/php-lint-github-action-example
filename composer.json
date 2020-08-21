@@ -1,0 +1,19 @@
+{
+    "name": "gdegirmenci/php-lint-github-action-example",
+    "description": "This is a basic example of using PHP Lint with Github action.",
+    "authors": [
+        {
+            "name": "Gökhan Değirmenci",
+            "email": "gdegirmenci0@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PHPLintGithubActionExample": "src/"
+        }
+    }
+}
