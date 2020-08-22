@@ -1,6 +1,6 @@
 {
     "name": "gdegirmenci/php-lint-github-action-example",
-    "description": "This is a basic example of using PHP Lint with Github action.",
+    "description": "This is an example usage of Github action to improve code quality with using linter.",
     "authors": [
         {
             "name": "Gökhan Değirmenci",
